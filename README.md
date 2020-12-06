@@ -18,15 +18,15 @@ It is recommended to use the highlighted combination where possible.
 |            | Environment | Motion | Airquality | VOC | Proximity | Gateway | Router | Controller |
 |------------|-------------|--------|------------|-----|-----------|---------|--------|------------|
 | GPSN       |     LP      |   LP   |     LP     |     |           |         |        |            |
-| LRSN       |         |        |            |  LP |           |         |        |            |
+| LRSN       |             |        |            |  LP |           |         |        |            |
 | Gateway    |             |        |            |     |           |    GT   |        |            |
 | Router     |             |        |            |     |           |         |    R   |            |
 | Controller |             |        |            |     |           |         |        |     AP     |
 
 # Completion % Sept 2020
-|            | Environment | Motion | Airquality | VOC | Proximity | Gateway | Router | Controller |
-|------------|-------------|--------|------------|-----|-----------|---------|--------|------------|
-|            |     100     |   100  |    DEPR    | 15  |    65     |   100   |   95   |     75     |
+|            | Environment | Motion | Airquality | Ranger | Proximity | Gateway | Router | Controller |
+|------------|-------------|--------|------------|--------|-----------|---------|--------|------------|
+|            |     100     |   100  |    DEPR    |   60   |    30     |   100   |   95   |     50     |
 
 
 Released under the GPL-3.0 License
