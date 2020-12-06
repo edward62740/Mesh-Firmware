@@ -10,7 +10,7 @@ End devices are low-power nodes that sleep for most of the time, periodically tr
 
 This project involves the design of several hardware devices (https://github.com/edward62740/Mesh-Hardware.git), as well as firmware. It is important to note that each hardware device may be compatible with one or more firmware types.
 
-![alt text](https://github.com/edward62740/mesh-firmware/docu/meshnetwork.jpg?raw=true)
+![alt text](https://github.com/edward62740/Mesh-Firmware/blob/master/docu/meshnetwork.jpg?raw=true)
 
 # Compatibility Matrix
 y-axis is the HARDWARE DEVICE, x-axis is the FIRMWARE TYPE. if compatible, node type is shown.
