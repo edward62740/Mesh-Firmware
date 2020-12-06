@@ -8,6 +8,8 @@ Routers retransmit received data to form the backbone of the network.
 Gateways are similar to routers and forward mesh network data to a server/cloud.
 End devices are low-power nodes that sleep for most of the time, periodically transmitting data.
 
+![alt text](https://github.com/edward62740/Mesh-Firmware/blob/master/docu/meshsensorspartial.jpeg?raw=true)
+
 This project involves the design of several hardware devices (https://github.com/edward62740/Mesh-Hardware.git), as well as firmware. It is important to note that each hardware device may be compatible with one or more firmware types.
 
 ![alt text](https://github.com/edward62740/Mesh-Firmware/blob/master/docu/meshnetwork.jpg?raw=true)
