@@ -15,13 +15,13 @@ This project involves the design of several hardware devices (https://github.com
 # Compatibility Matrix
 y-axis is the HARDWARE DEVICE, x-axis is the FIRMWARE TYPE. if compatible, node type is shown.
 It is recommended to use the highlighted combination where possible.
-|            | Environment | Motion | Airquality | VOC | Proximity | Gateway | Router | Controller |
-|------------|-------------|--------|------------|-----|-----------|---------|--------|------------|
-| GPSN       |     LP      |   LP   |     LP     |     |           |         |        |            |
-| LRSN       |             |        |            |  LP |           |         |        |            |
-| Gateway    |             |        |            |     |           |    GT   |        |            |
-| Router     |             |        |            |     |           |         |    R   |            |
-| Controller |             |        |            |     |           |         |        |     AP     |
+|            | Environment | Motion | Airquality | Ranger | Proximity | Gateway | Router | Controller |
+|------------|-------------|--------|------------|--------|-----------|---------|--------|------------|
+| GPSN       |     LP      |   LP   |     LP     |        |           |         |        |            |
+| LRSN       |             |        |            |   LP   |    LP     |         |        |            |
+| Gateway    |             |        |            |        |           |    GT   |        |            |
+| Router     |             |        |            |        |           |         |    R   |            |
+| Controller |             |        |            |        |           |         |        |     AP     |
 
 # Completion % Sept 2020
 |            | Environment | Motion | Airquality | Ranger | Proximity | Gateway | Router | Controller |
