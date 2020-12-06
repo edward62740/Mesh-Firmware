@@ -18,10 +18,10 @@ It is recommended to use the highlighted combination where possible.
 |            | Environment | Motion | Airquality | VOC | Proximity | Gateway | Router | Controller |
 |------------|-------------|--------|------------|-----|-----------|---------|--------|------------|
 | GPSN       |     LP      |   LP   |     LP     |     |           |         |        |            |
-| VOCSN      |             |        |            |  LP |           |         |        |            |
+| LRSN       |         |        |            |  LP |           |         |        |            |
 | Gateway    |             |        |            |     |           |    GT   |        |            |
 | Router     |             |        |            |     |           |         |    R   |            |
-| Controller |             |        |            |     |           |         |        |     R      |
+| Controller |             |        |            |     |           |         |        |     AP     |
 
 # Completion % Sept 2020
 |            | Environment | Motion | Airquality | VOC | Proximity | Gateway | Router | Controller |
